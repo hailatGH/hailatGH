@@ -1,6 +1,6 @@
 # Hi there, I'm Haile!  👋
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=hailatGH&show_icons=true&theme=transparent" />
+<!-- <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=hailatGH&show_icons=true&theme=transparent" />-->
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailatGH&layout=compact" />
 
 #### Programming Languages
