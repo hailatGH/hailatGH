@@ -1,5 +1,7 @@
 # Hi there, I'm Haile!  👋
 
+I am an Electrical and Computer Engineering graduate from Jimma University, specializing in Computer Engineering. With a strong background in Backend Development, I possess the expertise necessary to deliver top-tier digital solutions that meet user needs. My proficiency in developing RESTful APIs using various frameworks, such as Django, Express, Flask, and Next, enables me to create and maintain robust, scalable, and efficient applications. As a DevOps and Cloud Platforms specialist, I am well-versed in using cloud vendors like Amazon Web Services, Microsoft Azure, and Google Cloud Platform to ensure secure and efficient software application deployment. I am passionate about staying up-to-date with the latest industry trends and technologies, and my experience as a Backend Developer and DevOps Engineer allows me to deliver outstanding digital solutions that exceed company goals and objectives.
+
 <!-- <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=hailatGH&show_icons=true&theme=transparent" />-->
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailatGH&layout=compact" />
 
